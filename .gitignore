@@ -1,0 +1,31 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.env
+.vscode/
+
+# Dados grandes (opcional)
+*.csv
+*.json
+*.pkl
+*.h5
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Outputs
+*.log
+*.tmp
+*.temp
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/

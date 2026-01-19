@@ -1,0 +1,18 @@
+RELATÓRIO DE ANÁLISE NYPD
+==================================================
+
+Total de prisões analisadas: 100
+
+Distribuição por bairro:
+  Queens: 35 prisões
+  Brooklyn: 33 prisões
+  Manhattan: 20 prisões
+  Bronx: 11 prisões
+  Staten Island: 1 prisões
+
+Distribuição por idade:
+  25-44: 60 prisões
+  45-64: 22 prisões
+  18-24: 12 prisões
+  <18: 5 prisões
+  65+: 1 prisões
